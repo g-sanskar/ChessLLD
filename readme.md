@@ -5,4 +5,4 @@ compile using terminal command "g++ main.cpp Game.cpp Board.cpp Piece.cpp -o dem
 run exec file using "./demo"
 
 ####
-enjoy the game
+enjoy the game !
